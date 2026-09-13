@@ -1,6 +1,15 @@
-# 開発方針＆開発環境ルール(rcss3)
+# 開発方針＆開発環境ルール(RS-CSS)
 
-作業ドライブは`F:\open-runo`。この節は[`open-raid-z`](https://github.com/aon-co-jp/open-raid-z)の`CLAUDE.md`を正本とし、各プロジェクトへコピーして同期する方針に準じる。
+作業ドライブは`F:\runo`。この節は[`open-raid-z`](https://github.com/aon-co-jp/open-raid-z)の`CLAUDE.md`を正本とし、各プロジェクトへコピーして同期する方針に準じる。
+
+## リポジトリ改称(2026-09-13)
+
+`RCSS`→`RS-CSS`へGitHub上でrename済み。`aruaru.pro`向けのフロント基盤
+整備に合わせた`RFrontEnd`傘下のネーミング統一の一環(`RS-HTML`・
+`RS-GraphQL`・`RS-Node.js`も同時に改称)。crate名(`rcss3`)は依存関係の
+広さ(`RS-BootStrap`・`RS-React`から利用)に対して名前変更の効果が薄い
+ため今回は見送り、path参照のみ更新した。以下の記述内の`RCSS`表記は
+改称前の履歴として残す。
 
 ## このプロジェクトの構想(2026-07-18新設)
 
