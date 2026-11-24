@@ -1,3 +1,5 @@
+> Latest translations / 翻訳の最新版: [0-LATEST-TRANSLATIONS.md](0-LATEST-TRANSLATIONS.md)
+
 # rcss3
 
 CSS3相当のパーサー/カスケード/スタイル計算エンジンを一から開発するプロジェクト。
