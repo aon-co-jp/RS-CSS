@@ -1,3 +1,3 @@
 source: aon-co-jp/RS-CSS
-commit: e21fcf48e2b60a1a5181b4a414fbce2c6c1182e4
-updated: 2026-11-27T05:28:54Z
+commit: 49d7abf668814e5e0d0828c31f311138ed7ba896
+updated: 2026-11-27T06:09:46Z
